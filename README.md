@@ -1,0 +1,1 @@
+Es una aplicación web de diario financiero que muestra un panel con tus gastos totales, ingresos mensuales y balance, junto con tablas de resumen por categoría y detalle de cada gasto. También incluye un filtro por mes, ventanas emergentes para añadir/editar o confirmar la eliminación de gastos, y un diseño adaptable a pantallas grandes y móviles.
